@@ -6,3 +6,7 @@ d = p + p
 print(p)
 print(d)
 
+c = p * p
+
+print(p)
+print(c)

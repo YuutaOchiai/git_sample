@@ -1,2 +1,5 @@
-msg = "Hello World"
-print(msg)
+a = 5
+b = 8
+p = a - b
+
+print(p)

@@ -9,4 +9,4 @@ print(d)
 c = p * p
 
 print(p)
-print(c)
+print(a)
